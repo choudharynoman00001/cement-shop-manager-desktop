@@ -4,12 +4,9 @@ Retail cement shop software for one shop computer: products and brands, purchase
 
 This repository only carries the Windows installer. The app source is private.
 
-## Download and install
+## Status
 
-1. Open Releases and download `Cement-Shop-Manager-Setup-1.0.4.exe`.
-2. Check the file: SHA-256 must be `e3001d77ca80aa848db0bb8b08282ab77dc5899c12758f3d4a7abcbcf23118e5` (92,945,757 bytes).
-3. Run it. The installer is not signed, so Windows may show "Unknown publisher": More info > Run anyway.
-4. Open Cement Shop Manager from the desktop. Make the owner account on first start. A recovery key is shown once: write it down and keep it safe.
+The Windows installer is not released yet. There is nothing to download here for now.
 
 ## What you should know
 
